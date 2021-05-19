@@ -1,7 +1,4 @@
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/harshdhamecha/Fashion-MNIST-Classification/blob/main/Fashion_MNIST.ipynb)
-
-# Fashion-MNIST-Classification
+# Fashion-MNIST-Classification [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/harshdhamecha/Fashion-MNIST-Classification/blob/main/Fashion_MNIST.ipynb)
 This repo contains the famous Fashion MNIST Image Classification task which gives approx 94% Test Accuracy **without using Transfer Learning.**
 
 ## Datasets 
