@@ -1,3 +1,6 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](Fashion_MNIST.ipynb)
+
+
 # Fashion-MNIST-Classification
 This repo contains the famous Fashion MNIST Image Classification task which gives approx 94% Test Accuracy **without using Transfer Learning.**
 
