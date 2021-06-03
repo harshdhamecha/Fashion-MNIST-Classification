@@ -1,5 +1,7 @@
-# Fashion-MNIST-Classification   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/harshdhamecha/Fashion-MNIST-Classification/blob/main/Fashion_MNIST.ipynb)
-This repo contains the famous Fashion MNIST Image Classification task which gives approx 94% Test Accuracy **without using Transfer Learning.**
+# Fashion-MNIST-Classification   
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/harshdhamecha/Fashion-MNIST-Classification/blob/main/Fashion_MNIST.ipynb)  
+
+This repo contains the famous Fashion MNIST Image Classification task which gives approx 94% Test Accuracy **without using the Transfer Learning.**
 
 ## Datasets 
 Dataset is already available inside the keras library. You can load the data using `keras.datasets.fashion_mnist.load_data()`. Read more about the Datasets [here](https://www.kaggle.com/zalando-research/fashionmnist)
